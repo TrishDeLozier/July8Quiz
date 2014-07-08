@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "July8Quiz", "July8Quiz\July8Quiz.csproj", "{4E4AF0ED-D296-4B96-AE6C-C07A4D9CC972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "July8Quiz2", "July8Quiz2\July8Quiz2.csproj", "{CDFC0E88-2BED-4FB8-B627-28FACDA1E067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "July8Quiz3", "July8Quiz3\July8Quiz3.csproj", "{1647508B-6B33-4A4D-905C-35DC71719B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4AF0ED-D296-4B96-AE6C-C07A4D9CC972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4AF0ED-D296-4B96-AE6C-C07A4D9CC972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4AF0ED-D296-4B96-AE6C-C07A4D9CC972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4AF0ED-D296-4B96-AE6C-C07A4D9CC972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFC0E88-2BED-4FB8-B627-28FACDA1E067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFC0E88-2BED-4FB8-B627-28FACDA1E067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFC0E88-2BED-4FB8-B627-28FACDA1E067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFC0E88-2BED-4FB8-B627-28FACDA1E067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1647508B-6B33-4A4D-905C-35DC71719B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1647508B-6B33-4A4D-905C-35DC71719B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1647508B-6B33-4A4D-905C-35DC71719B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1647508B-6B33-4A4D-905C-35DC71719B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
